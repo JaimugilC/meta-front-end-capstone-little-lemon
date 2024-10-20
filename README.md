@@ -1,3 +1,8 @@
+# Meta Front-End Developer Professional Certificate capstone project
+
+# Author <Jaimugil.Chandhiravadivu@walmart.com>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
